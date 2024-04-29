@@ -15,19 +15,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![This is my Screenshot](/images/Screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://juneyoungmiller.github.io/QR/)
 
 ## My process
 
@@ -41,9 +40,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <img class="qr" src="images/image-qr-code.png" alt="QR Code">
@@ -60,17 +56,14 @@ To see how you can add code snippets, see below:
 ```
 
 
-### Continued development
-
-
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css_align.asp) - This helped me for centering the elements
+- [CSS Layout](https://www.w3schools.com/css/css_align.asp) - This helped me for centering the elements
 
 ## Author
 
-- Website - [Juneyoung Miller](https://www.your-site.com)
+- Website - [Juneyoung Miller](https://juneyoung-miller.netlify.app/)
 - Frontend Mentor - [@juneyoungMiller](https://www.frontendmentor.io/profile/juneyoungMiller)
 
 
